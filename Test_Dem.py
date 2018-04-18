@@ -12,6 +12,7 @@ from Engine.CommonMethods import CommonMethods
 class SportLight(unittest.TestCase, SeleniuAction, CommonMethods):
 
     def setUp(self):
+
         # self.driver = webdriver.Firefox()
         # self.driver.maximize_window()
         # self.driver.implicitly_wait(10)
